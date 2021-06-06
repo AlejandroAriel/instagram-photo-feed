@@ -1,0 +1,27 @@
+.container{
+    margin-left: 500px;
+    background-color: #ECEAE9;
+    width: 840px;
+    justify-content: center;
+}
+#top{
+    display: flex;
+   
+    width: 850px;
+
+}
+#options{
+   margin-left: 700px;
+   margin-top: 5px;
+}
+
+#book{
+    margin-left: 690px;
+}
+
+.icons{
+    font-size: 30px;
+}
+.body_container{
+    margin-top: 10px;
+}
