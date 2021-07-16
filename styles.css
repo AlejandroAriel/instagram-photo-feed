@@ -7,16 +7,19 @@
     height: 50px;
     width: 100%;
     margin-top: -10px;
-    display:flex;
-    justify-content: center;
     align-items: center;
 }
 body{
     background-color: #ECEAE9 ;
+    width: 100%;
+    height: 80%;
+   
+    margin: auto;
+    
 }
 .container{
-    margin-left: 500px;
-    margin-top: 20px;
+    margin: auto;
+    margin-top: 15px;
     background-color: #ECEAE9;
     width: 840px;
     justify-content: center;
